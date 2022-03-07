@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 I am data-driven and results-oriented with an entrepreneurial spirit and self-motivation. I have been working those last 3 years in programmatic media buying, real-time bidding, and funnel creation to generate qualified leads for end clients in B2B and B2C. I believe that growth can't be held without a good 1 to 1 communication strategy. 
 
-You can contact me on [christopher@laothiane.com](mailto:christopher@laothiane.com)
+You can contact me at [christopher@laothiane.com](mailto:christopher@laothiane.com)
