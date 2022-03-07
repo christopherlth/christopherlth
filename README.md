@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://christopher.laothiane.com">
-  <img src="hhttps://christopher.laothiane.com/assets/img/github.png" alt="Christopher Lao-Thiane" width="24"/>
+  <img src="https://christopher.laothiane.com/assets/img/github.png" alt="Christopher Lao-Thiane" width="24"/>
 </a>
 
 # Christopher Lao-Thiane
